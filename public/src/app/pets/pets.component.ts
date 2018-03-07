@@ -17,5 +17,6 @@ export class PetsComponent implements OnInit {
 	logout(){
 		this._dataService.logout();
 		this._router.navigate(['/login']);
-	}
+  }
+  
 }

@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class StoriesComponent implements OnInit {
 
-  constructor() { }
+  constructor() { 
+    console.log("TESTING THIS ")
+  }
 
   ngOnInit() {
+    console.log("IN THE STORIES COMPONENNT")
   }
 
 }

@@ -1,0 +1,36 @@
+.footer-socialicon {
+	border: solid 1px;
+	border-color: #9CA1A6;
+    color: #fff;
+    font-size: 25px;
+    height: 40px;
+	width: 40px;
+    padding-top: 5px;
+    text-align: center;
+}
+a.footer-socialicon {
+	color: #777;
+	text-decoration: none;
+}
+
+.footer-socialicon:hover {
+	color: #ffffff;
+	background-color: #40A6E7;
+}
+
+#subfooter {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #D4EDF7;
+	color: #666666;
+}
+
+#footer {
+	color: #ffffff;
+	background-color: #363D41;
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+#footer a {
+    color: #fff;
+}

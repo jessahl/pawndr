@@ -13,6 +13,7 @@ import { PetListComponent } from './pets/pet-list/pet-list.component';
 import { UserPetsComponent } from './pets/user-pets/user-pets.component';
 import { LandingComponent } from './landing/landing.component';
 import { StoriesComponent } from './stories/stories.component';
+import { AboutComponent } from './about/about.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { StoriesComponent } from './stories/stories.component';
     PetListComponent,
     UserPetsComponent,
     LandingComponent,
-    StoriesComponent
+    StoriesComponent,
+    AboutComponent
   ],
   imports: [
     BrowserModule,
